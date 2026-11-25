@@ -84,12 +84,3 @@ Catatan metodologi:
 - Alamsyah et al., *AES S-box modification uses affine matrices exploration for increased S-box strength*,
   Nonlinear Dynamics 113, 3869-3890 (2025). https://doi.org/10.1007/s11071-024-10414-3
 - Daemen, J., Rijmen, V., *The Design of Rijndael*, Springer (2002).
-
-## Tim
-
-| Nama | NIM | Peran |
-|---|---|---|
-| _isi_ | _isi_ | Konstruksi S-box |
-| _isi_ | _isi_ | Pengujian S-box |
-| _isi_ | _isi_ | AES dan analisis citra |
-| _isi_ | _isi_ | Streamlit dan laporan |
